@@ -1,6 +1,9 @@
 # 🎓 University Admission Prediction - Logistic Regression
 
 <img width="1375" height="632" alt="Screenshot 2025-08-08 050610" src="https://github.com/user-attachments/assets/e6884557-1de1-450f-ab8b-efbc696a24d8" />
+<img width="1410" height="622" alt="Screenshot 2025-08-08 050632" src="https://github.com/user-attachments/assets/b887d94f-61ab-466a-915c-b3d4e4b75d8c" />
+<img width="1370" height="676" alt="Screenshot 2025-08-08 050703" src="https://github.com/user-attachments/assets/bdd4fd51-90a5-46a1-80ad-00f384129952" />
+
 
 This project is part of Course 1 of the Machine Learning Specialization by Andrew Ng (DeepLearning.AI). It focuses on binary classification using logistic regression to predict student admissions based on exam scores.
 
